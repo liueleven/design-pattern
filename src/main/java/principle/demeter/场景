@@ -1,0 +1,5 @@
+迪米特原则
+
+明确类与类之间的关系，降低类之间的耦合度
+
+Boos类去下达指令让TeamLeader检查课程数量，Boos和Course是没有关系的，TeamLeader才跟Course有联系
