@@ -1,3 +1,0 @@
-简单工厂模式
-
-有一个video类，生成视频，让Java和python继承，传入具体的视频内容，简单工厂VideoFactory负责生成相应的视频

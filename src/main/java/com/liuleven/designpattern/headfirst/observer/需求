@@ -1,0 +1,17 @@
+需求：
+    获取天气数据，更新三个布告板
+
+问题：
+    天气数据是主题Subject，观察者是Observer可以动态的增删
+
+
+思路一：
+    https://note.youdao.com/yws/public/resource/69346abadb5cb02942629a8234f686bb/xmlnote/46419324D9D34AAA90B43E60EF5D3619/19980
+    https://note.youdao.com/yws/public/resource/69346abadb5cb02942629a8234f686bb/xmlnote/559337726EDA440E9850A8AB5C52B3D6/19982
+    让基本对象实现Observer，成为观察者，主题订阅一旦有更新会把消息通知到观察者中
+
+设计模式：
+    观察者模式
+
+
+
