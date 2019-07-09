@@ -1,8 +1,8 @@
-package com.liuleven.designpattern.headfirst.factory;
+package com.liuleven.designpattern.headfirst.factory.normal;
 
 
 /**
- * @description: 一定要写注释啊
+ * @description: pizza工厂
  * @date: 2019-01-10 18:41
  * @author: 十一
  */

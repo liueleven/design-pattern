@@ -1,4 +1,4 @@
-package com.liuleven.designpattern.headfirst.factory;
+package com.liuleven.designpattern.headfirst.factory.normal;
 
 /**
  * @description: 一定要写注释啊

@@ -1,4 +1,4 @@
-package com.liuleven.designpattern.headfirst.factory;
+package com.liuleven.designpattern.headfirst.factory.normal;
 
 import java.util.ArrayList;
 
